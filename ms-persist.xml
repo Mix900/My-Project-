@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PendingCommit>
+  <CommitComment />
+  <TrackedFiles>
+    <RelativePath>quadratique calculator.sln</RelativePath>
+    <RelativePath>quadratique calculator\App.config</RelativePath>
+    <RelativePath>quadratique calculator\Form1.Designer.vb</RelativePath>
+    <RelativePath>quadratique calculator\Form1.resx</RelativePath>
+    <RelativePath>quadratique calculator\Form1.vb</RelativePath>
+    <RelativePath>quadratique calculator\My Project\Application.Designer.vb</RelativePath>
+    <RelativePath>quadratique calculator\My Project\Application.myapp</RelativePath>
+    <RelativePath>quadratique calculator\My Project\AssemblyInfo.vb</RelativePath>
+    <RelativePath>quadratique calculator\My Project\Resources.Designer.vb</RelativePath>
+    <RelativePath>quadratique calculator\My Project\Resources.resx</RelativePath>
+    <RelativePath>quadratique calculator\My Project\Settings.Designer.vb</RelativePath>
+    <RelativePath>quadratique calculator\My Project\Settings.settings</RelativePath>
+    <RelativePath>quadratique calculator\quadratique calculator.vbproj</RelativePath>
+  </TrackedFiles>
+  <ExcludedItems />
+  <WorkItems />
+</PendingCommit>
